@@ -1,0 +1,16 @@
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\bin\Debug\net10.0-windows\cau2.exe
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\bin\Debug\net10.0-windows\cau2.deps.json
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\bin\Debug\net10.0-windows\cau2.runtimeconfig.json
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\bin\Debug\net10.0-windows\cau2.dll
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\bin\Debug\net10.0-windows\cau2.pdb
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.Form1.resources
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.csproj.GenerateResource.cache
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.AssemblyInfoInputs.cache
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.AssemblyInfo.cs
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.csproj.CoreCompileInputs.cache
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.dll
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\refint\cau2.dll
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.pdb
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\cau2.genruntimeconfig.cache
+C:\Code\LapTrinhTrucQuan\BTLT3\cau2\cau2\obj\Debug\net10.0-windows\ref\cau2.dll
